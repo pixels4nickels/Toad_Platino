@@ -1,0 +1,15 @@
+{
+"framerate":30,
+"images":["ripple.png"],
+"frames":{
+    "regY": 0,
+    "height": 188,
+    "count": 33,
+    "regX": 0,
+    "width": 190
+},
+"animations":{}
+}
+
+190 * 10 = 1900
+188 * 4 = 752

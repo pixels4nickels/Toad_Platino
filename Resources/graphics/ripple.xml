@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker -->
+<!-- http://www.texturepacker.com -->
+<!-- $TexturePacker:SmartUpdate:1d69cdff2bbb4098221e2becac408cc7$ -->
+<Imageset Name="ripple" Imagefile="graphics/ripple.png" NativeHorzRes="1900" NativeVertRes="537" AutoScaled="false">
+    <Image Name="0" XPos="1329" YPos="374" Width="0" Height="0"/>
+    <Image Name="1" XPos="1208" YPos="374" Width="117" Height="115"/>
+    <Image Name="2" XPos="1923" YPos="194" Width="121" Height="120"/>
+    <Image Name="3" XPos="1077" YPos="374" Width="127" Height="126"/>
+    <Image Name="4" XPos="940" YPos="374" Width="133" Height="132"/>
+    <Image Name="5" XPos="797" YPos="374" Width="139" Height="138"/>
+    <Image Name="6" XPos="648" YPos="374" Width="145" Height="142"/>
+    <Image Name="7" XPos="1895" YPos="2" Width="150" Height="148"/>
+    <Image Name="8" XPos="330" YPos="374" Width="155" Height="154"/>
+    <Image Name="9" XPos="2" YPos="374" Width="161" Height="160"/>
+    <Image Name="10" XPos="1247" YPos="194" Width="167" Height="166"/>
+    <Image Name="11" XPos="544" YPos="194" Width="173" Height="170"/>
+    <Image Name="12" XPos="2" YPos="194" Width="179" Height="176"/>
+    <Image Name="13" XPos="964" YPos="2" Width="185" Height="182"/>
+    <Image Name="14" XPos="390" YPos="2" Width="190" Height="188"/>
+    <Image Name="15" XPos="721" YPos="194" Width="171" Height="170"/>
+    <Image Name="16" XPos="364" YPos="194" Width="176" Height="174"/>
+    <Image Name="17" XPos="1527" YPos="2" Width="181" Height="178"/>
+    <Image Name="18" XPos="775" YPos="2" Width="185" Height="184"/>
+    <Image Name="19" XPos="196" YPos="2" Width="190" Height="188"/>
+    <Image Name="20" XPos="489" YPos="374" Width="155" Height="154"/>
+    <Image Name="21" XPos="167" YPos="374" Width="159" Height="157"/>
+    <Image Name="22" XPos="1758" YPos="194" Width="161" Height="160"/>
+    <Image Name="23" XPos="1589" YPos="194" Width="165" Height="162"/>
+    <Image Name="24" XPos="1418" YPos="194" Width="167" Height="166"/>
+    <Image Name="25" XPos="1073" YPos="194" Width="170" Height="168"/>
+    <Image Name="26" XPos="896" YPos="194" Width="173" Height="170"/>
+    <Image Name="27" XPos="185" YPos="194" Width="175" Height="174"/>
+    <Image Name="28" XPos="1712" YPos="2" Width="179" Height="176"/>
+    <Image Name="28" XPos="1342" YPos="2" Width="181" Height="180"/>
+    <Image Name="28" XPos="1153" YPos="2" Width="185" Height="182"/>
+    <Image Name="28" XPos="584" YPos="2" Width="187" Height="185"/>
+    <Image Name="28" XPos="2" YPos="2" Width="190" Height="188"/>
+</Imageset>

@@ -1,0 +1,117 @@
+var PlayfieldShape = require('lib/ash/ash').Class.extend({
+	constructor: function () {
+		return  [
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   40, 186.5  ,  45.5, 194  ,  36.5, 194  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   33, 174.5  ,  40, 159.5  ,  40, 186.5  ,  30, 186.5  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   98.5, 35  ,  150, 225.5  ,  149, 223.5  ,  97, 35.5  ,  97.5, 33  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   52.5, 200  ,  40, 159.5  ,  65, 206.5  ,  57, 209.5  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   35.5, 126  ,  35.5, 133  ,  33, 129.5  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   41, 154.5  ,  143, 223.5  ,  113, 216.5  ,  40, 159.5  ,  37, 152.5  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   40, 159.5  ,  33, 174.5  ,  29.5, 167  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   103.5, 218  ,  113, 216.5  ,  105, 222.5  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   43.5, 204  ,  45.5, 194  ,  47, 201.5  ,  45, 205.5  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   45.5, 194  ,  40, 159.5  ,  52.5, 200  ,  47, 201.5  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   125, 34.5  ,  165, 205.5  ,  150, 225.5  ,  98.5, 35  ,  113, 31.5  ,  122, 31.5  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   65, 206.5  ,  40, 159.5  ,  73.5, 208  ,  72, 209.5  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   42.5, 79  ,  70.5, 48  ,  95, 34.5  ,  35.5, 126  ,  31.5, 114  ,  32.5, 96  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   73.5, 208  ,  40, 159.5  ,  103.5, 218  ,  95.5, 221  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   169, 36.5  ,  193.5, 57  ,  210.5, 92  ,  212.5, 124  ,  200.5, 168  ,  165, 205.5  ,  125, 34.5  ,  151, 30.5  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   113, 31.5  ,  98.5, 35  ,  111, 29.5  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   113, 216.5  ,  143, 223.5  ,  135.5, 226  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   40, 159.5  ,  45.5, 194  ,  40, 186.5  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   165, 205.5  ,  200.5, 168  ,  192, 182.5  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   35.5, 133  ,  41, 154.5  ,  33.5, 134  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   40, 159.5  ,  113, 216.5  ,  103.5, 218  ]
+			}  ,
+			{
+				"density": 2, "friction": 0, "bounce": 0,
+				"filter": { "categoryBits": 1, "maskBits": 65535 },
+				"shape": [   35.5, 126  ,  95, 34.5  ,  97, 35.5  ,  149, 223.5  ,  143, 223.5  ,  41, 154.5  ,  35.5, 133  ]
+			}
+		];
+	}
+});
+module.exports = PlayfieldShape;

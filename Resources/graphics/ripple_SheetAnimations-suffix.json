@@ -1,0 +1,294 @@
+{
+  "animations" : {
+    "ripple" : {
+      "spriteSheet" : "ripple_UntitledSheet-suffix.xml",
+      "loops" : 1,
+      "randomReplay" : false,
+      "minRandomTime" : 0.1,
+      "frames" : [
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_02.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_03.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_04.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_05.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_06.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_07.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_08.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_09.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_10.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_11.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_12.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_13.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_14.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_15.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_16.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_17.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_18.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_19.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_20.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_21.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_22.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_23.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_24.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_25.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_26.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_27.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_28.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_29.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_30.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_31.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_32.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_33.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_34.png"
+        },
+        {
+          "offset" : "{0, 0}",
+          "delayUnits" : 1,
+          "notification" : {
+
+          },
+          "spriteframe" : "ripple_35.png"
+        }
+      ],
+      "restoreOriginalFrame" : false,
+      "delayPerUnit" : 0.1,
+      "randomFrames" : false,
+      "loop" : false,
+      "maxRandomTime" : 0.3
+    }
+  },
+  "about" : {
+    "app" : "SpriteHelper",
+    "web" : "http:\/\/www.gamedevhelper.com",
+    "author" : "Vladu Bogdan"
+  }
+}

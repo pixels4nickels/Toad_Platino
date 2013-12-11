@@ -1,0 +1,9 @@
+#appname:Toad
+#appid:conm.p4n.platino.Toad
+#type:mobile
+#guid:eb16ae26-1d04-45ed-b388-af95de20e434
+#version:1.0
+#publisher:mtwl
+#url:http://mtwl.org
+#image:appicon.png
+#desc:A fun game made with the Platino game sdk.

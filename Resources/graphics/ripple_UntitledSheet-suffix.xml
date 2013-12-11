@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This atlas was generated using SpriteHelper s2 -->
+<!-- http://www.gamedevhelper.com -->
+<Imageset Name="UntitledSheet" Imagefile="ripple_UntitledSheet-suffix.png" NativeHorzRes="1024" NativeVertRes="1024" AutoScaled="false">
+	<Image Name="ripple_02.png" XPos="0" YPos="0" Width="190" Height="188"/>
+	<Image Name="ripple_03.png" XPos="760" YPos="752" Width="189" Height="188"/>
+	<Image Name="ripple_04.png" XPos="190" YPos="0" Width="190" Height="188"/>
+	<Image Name="ripple_05.png" XPos="380" YPos="0" Width="190" Height="188"/>
+	<Image Name="ripple_06.png" XPos="1329" YPos="188" Width="189" Height="188"/>
+	<Image Name="ripple_07.png" XPos="570" YPos="0" Width="190" Height="188"/>
+	<Image Name="ripple_08.png" XPos="760" YPos="0" Width="190" Height="188"/>
+	<Image Name="ripple_09.png" XPos="0" YPos="188" Width="190" Height="188"/>
+	<Image Name="ripple_10.png" XPos="1518" YPos="188" Width="189" Height="188"/>
+	<Image Name="ripple_11.png" XPos="0" YPos="376" Width="190" Height="188"/>
+	<Image Name="ripple_12.png" XPos="0" YPos="564" Width="190" Height="188"/>
+	<Image Name="ripple_13.png" XPos="1707" YPos="188" Width="189" Height="188"/>
+	<Image Name="ripple_14.png" XPos="0" YPos="752" Width="190" Height="188"/>
+	<Image Name="ripple_15.png" XPos="190" YPos="188" Width="190" Height="188"/>
+	<Image Name="ripple_16.png" XPos="190" YPos="376" Width="189" Height="188"/>
+	<Image Name="ripple_17.png" XPos="380" YPos="188" Width="190" Height="188"/>
+	<Image Name="ripple_18.png" XPos="570" YPos="188" Width="190" Height="188"/>
+	<Image Name="ripple_19.png" XPos="760" YPos="188" Width="190" Height="188"/>
+	<Image Name="ripple_20.png" XPos="190" YPos="564" Width="189" Height="188"/>
+	<Image Name="ripple_21.png" XPos="190" YPos="376" Width="190" Height="188"/>
+	<Image Name="ripple_22.png" XPos="190" YPos="564" Width="190" Height="188"/>
+	<Image Name="ripple_23.png" XPos="190" YPos="752" Width="189" Height="188"/>
+	<Image Name="ripple_24.png" XPos="190" YPos="752" Width="190" Height="188"/>
+	<Image Name="ripple_25.png" XPos="380" YPos="376" Width="190" Height="188"/>
+	<Image Name="ripple_26.png" XPos="190" YPos="940" Width="189" Height="188"/>
+	<Image Name="ripple_27.png" XPos="570" YPos="376" Width="190" Height="188"/>
+	<Image Name="ripple_28.png" XPos="760" YPos="376" Width="190" Height="188"/>
+	<Image Name="ripple_29.png" XPos="380" YPos="564" Width="190" Height="188"/>
+	<Image Name="ripple_30.png" XPos="190" YPos="1128" Width="189" Height="188"/>
+	<Image Name="ripple_31.png" XPos="380" YPos="752" Width="190" Height="188"/>
+	<Image Name="ripple_32.png" XPos="570" YPos="564" Width="190" Height="188"/>
+	<Image Name="ripple_33.png" XPos="190" YPos="1316" Width="189" Height="188"/>
+	<Image Name="ripple_34.png" XPos="760" YPos="564" Width="190" Height="188"/>
+	<Image Name="ripple_35.png" XPos="570" YPos="752" Width="190" Height="188"/>
+</Imageset>
