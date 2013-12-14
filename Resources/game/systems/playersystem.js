@@ -140,6 +140,8 @@ var PlayerSystem = require('lib/ash/ash').System.extend({
 
 	returnToStartingPoint : function(){
 		Ti.API.info("PlayerSystem.returnToStartingPoint");
+		this.game.openTitleView();
+		this.player.player.state = this.playerStates.SITTING_STATE;
 //
 //		var xdiff = (levelData.homex) - (player.x + player.width * 0.5);
 //		var ydiff = (levelData.homey) - (player.y + player.height * 0.5);

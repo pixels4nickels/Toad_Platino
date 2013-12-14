@@ -13,11 +13,12 @@ var padStates = {
 };
 var gameStates = {
 	INIT_STATE : "init",
-	TITLE_STATE : "title",
-	START_STATE : "start",
+	MENU_STATE : "menu",
+	RETRY_STATE : "retry",
 	PLAYING_STATE : "playing",
-	FAILED_STATE : "over"
+	SUCCESS_STATE : "success"
 };
+
 module.exports.playerStates = playerStates;
 module.exports.padStates = padStates;
 module.exports.gameStates = gameStates;

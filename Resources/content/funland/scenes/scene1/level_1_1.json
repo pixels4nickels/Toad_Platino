@@ -1,0 +1,30 @@
+{
+	"pwidth": 1152,
+	"pheight":1536,
+	"homex":570,
+	"homey":550,
+	"px":570,
+	"py":550,
+	"pads":[
+		{"x":640,"y":536,"t":"lillypad_1"},
+		{"x":440,"y":636,"t":"lillypad_3"},
+		{"x":540,"y":736,"t":"lillypad_4"},
+		{"x":640,"y":836,"t":"lillypad_1"},
+		{"x":640,"y":536,"t":"lillypad_4"},
+		{"x":440,"y":636,"t":"lillypad_1"},
+		{"x":540,"y":736,"t":"lillypad_2"},
+		{"x":640,"y":836,"t":"lillypad_2"},
+		{"x":640,"y":536,"t":"lillypad_1"},
+		{"x":440,"y":636,"t":"lillypad_2"},
+		{"x":540,"y":736,"t":"lillypad_1"},
+		{"x":640,"y":836,"t":"lillypad_3"},
+		{"x":640,"y":536,"t":"lillypad_3"},
+		{"x":440,"y":636,"t":"lillypad_2"},
+		{"x":540,"y":736,"t":"lillypad_1"},
+		{"x":640,"y":836,"t":"lillypad_1"},
+		{"x":640,"y":536,"t":"lillypad_4"},
+		{"x":440,"y":636,"t":"lillypad_1"},
+		{"x":540,"y":736,"t":"lillypad_2"},
+		{"x":640,"y":836,"t":"lillypad_4"}
+	]
+}

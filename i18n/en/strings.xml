@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-	<string name="welcome">Welcome to %s!</string>
+    <string name="funland">Fun Land</string>
+    <string name="winterwonder">Winter Wonder</string>
+    <string name="volcanicaction">Volcanic Action</string>
+    <string name="scene1">Scene 1</string>
+    <string name="scene2">Scene 2</string>
+    <string name="scene3">Scene 3</string>
+    <string name="scene4">Scene 4</string>
+    <string name="scene5">Scene 5</string>
+    <string name="level1">Level 1</string>
+    <string name="level2">Level 2</string>
+    <string name="level3">Level 3</string>
+    <string name="level4">Level 4</string>
 </resources>

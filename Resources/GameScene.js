@@ -6,7 +6,7 @@ var v = chipmunk.cpv;
 
 var DebugDraw = require("co.lanica.chipmunk2d.debugdraw");
 
-var MainScene = function(window, game) {
+var GameScene = function(window, game) {
 	var scene = platino.createScene();
 	var engine = null;
 	var previousTime = 0;
@@ -33,7 +33,7 @@ var MainScene = function(window, game) {
 		//debugDraw.active = true;
 		var space = chipmunk.cpSpaceNew();
 		engine = new Engine();
-	var creator = new EntityCreator(engine, game, scene, space, debugDraw);
+		var creator = new EntityCreator(engine, game, scene, space, debugDraw);
 
 
 
@@ -123,7 +123,7 @@ var MainScene = function(window, game) {
 	return scene;
 };
 
-module.exports = MainScene;
+module.exports = GameScene;
 // ANIMATION_CURVE_EASE_IN_OUT
 // ANIMATION_CURVE_EASE_IN
 // ANIMATION_CURVE_EASE_OUT

@@ -33,13 +33,12 @@ var EntityCreator = ash.Class.extend({
 		this.debugDraw = debugDraw;
 		var AssetFactory = require('game/factory/assetfactory')
 		this.assetFactory = new AssetFactory();
-		var url = "graphics/pondBounds.json";
-		var file = Ti.Filesystem.getFile(Ti.Filesystem.resourcesDirectory, url);
+		//var url = "graphics/pondBounds.json";
+		//var file = Ti.Filesystem.getFile(Ti.Filesystem.resourcesDirectory, url);
 		//var json, object_name, locatie, i, row, title, value, homeof, logo, colors, link;
-		var preParseData = (file.read().text);
-		var response = JSON.parse(preParseData);
-		Ti.API.info("density = " + response.pondBoundsShape[0].density);
-
+		//var preParseData = (file.read().text);
+		//var response = JSON.parse(preParseData);
+		//Ti.API.info("density = " + response.pondBoundsShape[0].density);
 		Ti.API.info("EntityCreator.constructor:done");
 		return this;
 	},
@@ -63,7 +62,7 @@ var EntityCreator = ash.Class.extend({
 		this.game.setupSpriteSize(backgroundSprite);
 		this.scene.add(backgroundSprite);
 		backgroundSprite.z = 1;
-		var PlayfieldShape = require("game/model/playfieldshape");
+		var PlayfieldShape = require("content/funland/playfieldshape");
 		var data = new PlayfieldShape();
 		var polyData = this.getPolydata(data);
 

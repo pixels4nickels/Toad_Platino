@@ -7,6 +7,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Cpp SDK" jdkType="CppSdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Node.js v0.10.22 Core Modules" level="application" />
   </component>
 </module>
 

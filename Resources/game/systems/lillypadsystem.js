@@ -75,9 +75,11 @@ var LillyPadSystem = require('lib/ash/ash').System.extend({
 		var node = node;
 		var onSinkTransformComplete = function(e){
 			//system.player.display.view.animate(6,11,10,0);
-			node.transform.transform.removeEventListener('complete', system.sinkTransformListener);
+			if(node.transform.transform){
+				node.transform.transform.removeEventListener('complete', system.sinkTransformListener);
+			}
 			if(system.player.player.parent === node){
-				this.player.player.state = this.playerStates.SWIMMING_STATE;
+				system.player.player.state = system.playerStates.SWIMMING_STATE;
 				Ti.API.info("PLAYER STATE CHANGE: SWIMMING");
 			}
 			system.destroyPad(node);

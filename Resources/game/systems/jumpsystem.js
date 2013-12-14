@@ -8,15 +8,15 @@ var JumpSystem = require('lib/ash/ash').System.extend({
 	touchEvent: null,
 	jumpTransformListener: null,
     constructor: function (game, touchSignal) {
-	    touchSignal.add(this.handleTouch, this);
-	    this.game = game;
-	    return this;
+		touchSignal.add(this.handleTouch, this);
+		this.game = game;
+		return this;
     },
 
     addToEngine: function (engine) {
         this.playerList = engine.getNodeList(require('game/nodes/player'));
         this.ringList = engine.getNodeList(require('game/nodes/ring'));
-	    this.playfieldList = engine.getNodeList(require('game/nodes/playfield'));
+		this.playfieldList = engine.getNodeList(require('game/nodes/playfield'));
 	    for(var node = this.playfieldList.head; node; node = node.next) {
 		    this.addPlayfield(node);
 	    }
